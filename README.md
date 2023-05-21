@@ -12,12 +12,6 @@ Hello, my name is Denys, I am 18 years old developer from Ukraine<br>🔭 I’m 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DenysPanasiuk&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysPanasiuk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DenysPanasiuk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DenysPanasiuk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DenysPanasiuk&icon=0&color=1)](https://visitcount.itsvg.in)
 
