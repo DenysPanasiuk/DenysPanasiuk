@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Denys, I am 18 years old developer from Ukraine<br>🔭 I’m currently working in DXC Technology as a Java Software Developer<br>🌱 I’m currently learning Algorithms, Data Structures and Frameworks<br><br>⚡ Languages I speak:<br>- English (B2 - Upper Intermediate)<br>- Slovak (B2 - Upper Intermediate)<br>- Ukrainian (C2 - Proficiency)<br><br>💬 Right now I am working and studying hard, receiving all knowledges I need<br> to achieve my dream - be a BigTech employee!
+Hello, my name is Denys, I am 19 years old developer from Ukraine<br>🔭 I’m currently working in DXC Technology as a Java Software Developer<br>🌱 I’m currently learning Algorithms, Data Structures and Frameworks<br><br>⚡ Languages I speak:<br>- English (B2 - Upper Intermediate)<br>- Slovak (B2 - Upper Intermediate)<br>- Ukrainian (C2 - Proficiency)<br><br>💬 Right now I am working and studying hard, receiving all knowledges I need<br> to achieve my dream - be a BigTech employee!
 
 
 ## 🌐 Socials:
